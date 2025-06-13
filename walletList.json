@@ -13,5 +13,20 @@
     "label": "KuCoin",
     "color": "#ff3300",
     "notes": "Central Exchange"
+  },
+  "oasis1qp533xjqg7rjn9xglk6fgp3pykdscsk6vs3m2tuz": {
+    "label": "MEXC",
+    "color": "#ff3300",
+    "notes": "Central Exchange"
+  },
+  "oasis1qpm97z4c28juhdea220jtq2e3mz4gruyg54xktlm": {
+    "label": "Kucoin (old)",
+    "color": "#ff9999",
+    "notes": "Previous Exchange Wallet"
+  },
+  "oasis1qprje45lh2qqrsy4rcvgx4zpnpzkhkqcm58emr3l": {
+    "label": "Binance (old)",
+    "color": "#ff9999",
+    "notes": "Previous Exchange Wallet (until Dec 2022)"
   }
 }
