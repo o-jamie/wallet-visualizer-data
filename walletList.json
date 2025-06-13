@@ -1,0 +1,17 @@
+{
+  "oasis1qzwfdgpt3p6dd2mk6207qhf9qrxuvfn9eunurdgu": {
+    "label": "Binance",
+    "color": "#ff4d4d",
+    "note": "Central Exchange"
+  },
+  "oasis1qqhxlgc53k09mzp8qmrfks2vc9ljhyuyqqqmzd7m": {
+    "label": "Coinbase",
+    "color": "",
+    "note": "Central Exchange"
+  },
+  "oasis1qq03n9m557tsulxpdlknrhlvtm6wunhj0vzv0jnx": {
+    "label": "KuCoin",
+    "color": "",
+    "note": "Central Exchange"
+  },
+}
