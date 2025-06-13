@@ -2,16 +2,16 @@
   "oasis1qzwfdgpt3p6dd2mk6207qhf9qrxuvfn9eunurdgu": {
     "label": "Binance",
     "color": "#ff3300",
-    "note": "Central Exchange"
+    "notes": "Central Exchange"
   },
   "oasis1qqhxlgc53k09mzp8qmrfks2vc9ljhyuyqqqmzd7m": {
     "label": "Coinbase",
     "color": "#ff3300",
-    "note": "Central Exchange"
+    "notes": "Central Exchange"
   },
   "oasis1qq03n9m557tsulxpdlknrhlvtm6wunhj0vzv0jnx": {
     "label": "KuCoin",
     "color": "#ff3300",
-    "note": "Central Exchange"
+    "notes": "Central Exchange"
   }
 }
