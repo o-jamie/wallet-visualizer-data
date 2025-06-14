@@ -43,5 +43,85 @@
     "label": "Binance (old)",
     "color": "#ff3300",
     "notes": "Previous Exchange Wallet (until Dec 2022)"
+  },
+  "oasis1qprtzrg97jk0wxnqkhxwyzy5qys47r7alvfl3fcg": {
+    "label": "Foundation ...fl3fcg (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qqepjltaqz6364wxpgsgkhrhn2jvnxhnsq8fkm8j": {
+    "label": "Foundation ...8fkm8j (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk": {
+    "label": "Foundation ...4xvhvk (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6": {
+    "label": "Foundation ...n400d6 (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qqjak3gnnnxkc8rm9e6vu3rwt3hm3shq0y47c6zr": {
+    "label": "Foundation ...47c6zr (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2": {
+    "label": "Foundation ...zc5xf2 (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qpsg3nfqtcqvfgh0khphnlmq7luymmu2pg756cl8": {
+    "label": "Foundation ...756cl8 (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qp29h8ykmxet46eqzw0wennrmmy4al3xzv37m3ca": {
+    "label": "Foundation ...37m3ca (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qqhcw8zmugrm945zc4sk5qq6sjkdfrl6wvp7egw3": {
+    "label": "Foundation ...p7egw3 (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet"
+  },
+  "oasis1qr8znzva3h28hausy7n3fput0fn80sajeywmwp5y": {
+    "label": "ROSE Rolodex (OPF)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation wallet used for test txs prior to unlocks"
+  },
+  "oasis1qrmufhkkyyf79s5za2r8yga9gnk4t446dcy3a5zm": {
+    "label": "Common Pool (OPF)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation (Reserved Wallet)"
+  },
+  "oasis1qqnv3peudzvekhulf8v3ht29z4cthkhy7gkxmph5": {
+    "label": "Fee accumulator (OPF)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation (Reserved Wallet)"
+  },
+  "oasis1qp65laz8zsa9a305wxeslpnkh9x4dv2h2qhjz0ec": {
+    "label": "Governance Deposits (OPF)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation (Reserved Wallet)"
+  },
+  "oasis1qrd3mnzhhgst26hsp96uf45yhq6zlax0cuzdgcfc": {
+    "label": "Sapphire (Vault)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation"
+  },
+  "oasis1qrnu9yhwzap7rqh6tdcdcpz0zf86hwhycchkhvt8": {
+    "label": "Cipher (Vault)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation"
+  },
+  "oasis1qzvlg0grjxwgjj58tx2xvmv26era6t2csqn22pte": {
+    "label": "Emerald (Vault)",
+    "color": "#4d7399",
+    "notes": "Oasis Protocol Foundation"
   }
 }
