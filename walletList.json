@@ -9,6 +9,11 @@
     "color": "#ff3300",
     "notes": "Central Exchange"
   },
+  "oasis1qretf46wec0tvs0qc8net5c5zsdalrgrgcu5r37t": {
+    "label": "Bybit",
+    "color": "#ff3300",
+    "notes": "Central Exchange"
+  },
   "oasis1qq03n9m557tsulxpdlknrhlvtm6wunhj0vzv0jnx": {
     "label": "KuCoin",
     "color": "#ff3300",
@@ -16,6 +21,11 @@
   },
   "oasis1qp533xjqg7rjn9xglk6fgp3pykdscsk6vs3m2tuz": {
     "label": "MEXC",
+    "color": "#ff3300",
+    "notes": "Central Exchange"
+  },
+  "oasis1qz068qtggv6kdstymnvqm46rpv6p6tk6pueffdqu": {
+    "label": "Bitrue",
     "color": "#ff3300",
     "notes": "Central Exchange"
   },
