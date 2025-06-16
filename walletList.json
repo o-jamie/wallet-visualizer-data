@@ -50,12 +50,12 @@
     "notes": "Exchange Cold store / Binance reserves"
   },
   "oasis1qzd649gq7lgy4wwv7d45pkavfa5yfmw6us3nzv9m": {
-    "label": "Big Coinbase",
+    "label": "Coinbase Cold Wallet",
     "color": "#ff3300",
     "notes": "Exchange Cold Store or Custodial Reserves"
   },
   "oasis1qprdt0y9q34pnupgdp3wgvv88klj0f979u6c0yan": {
-    "label": "Big Kucoin",
+    "label": "Kucoin Cold Wallet",
     "color": "#ff3300",
     "notes": "Exchange Cold Store or Custodial Reserves"
   },
