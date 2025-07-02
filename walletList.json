@@ -3,193 +3,1478 @@
     "label": "Binance",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qrmccuu3wfm2axf62m7ykh2l58hcfd4v0cdzkjge": {
     "label": "Binance (US)",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qqhxlgc53k09mzp8qmrfks2vc9ljhyuyqqqmzd7m": {
     "label": "Coinbase",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qretf46wec0tvs0qc8net5c5zsdalrgrgcu5r37t": {
     "label": "Bybit",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qq03n9m557tsulxpdlknrhlvtm6wunhj0vzv0jnx": {
     "label": "KuCoin",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qp533xjqg7rjn9xglk6fgp3pykdscsk6vs3m2tuz": {
     "label": "MEXC",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qz068qtggv6kdstymnvqm46rpv6p6tk6pueffdqu": {
     "label": "Bitrue",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qpfpj0fr6tv3k54p2euddyj6lezm5tfqhv3qjtd6": {
     "label": "Unknown Exchange",
     "color": "#ff3300",
     "notes": "Central Exchange Behaviours",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qpu2s8ths0txkqahc6ttrg7fu9wgmhrrs5yn68t0": {
     "label": "Unknown Exchange",
     "color": "#ff3300",
     "notes": "Central Exchange Behaviours",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qppfyeugxmxdx5m4gpasg4xqg296zcdndy0k2zsg": {
     "label": "Gate.io",
     "color": "#ff3300",
     "notes": "Central Exchange",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qpg2xuz46g53737343r20yxeddhlvc2ldqsjh70p": {
     "label": "Big Binance",
     "color": "#ff3300",
     "notes": "Exchange Cold store / Binance reserves",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qzd649gq7lgy4wwv7d45pkavfa5yfmw6us3nzv9m": {
     "label": "Coinbase Cold Wallet",
     "color": "#ff3300",
     "notes": "Exchange Cold Store or Custodial Reserves",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qprdt0y9q34pnupgdp3wgvv88klj0f979u6c0yan": {
     "label": "Kucoin Cold Wallet",
     "color": "#ff3300",
     "notes": "Exchange Cold Store or Custodial Reserves",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qpm97z4c28juhdea220jtq2e3mz4gruyg54xktlm": {
     "label": "Kucoin (old)",
     "color": "#ff3300",
     "notes": "Previous Exchange Wallet",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qprje45lh2qqrsy4rcvgx4zpnpzkhkqcm58emr3l": {
     "label": "Binance (old)",
     "color": "#ff3300",
     "notes": "Previous Exchange Wallet (until Dec 2022)",
+    "image": "",
     "tag": "exchange"
   },
   "oasis1qprtzrg97jk0wxnqkhxwyzy5qys47r7alvfl3fcg": {
     "label": "Foundation ...fl3fcg (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qqepjltaqz6364wxpgsgkhrhn2jvnxhnsq8fkm8j": {
     "label": "Foundation ...8fkm8j (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk": {
     "label": "Foundation ...4xvhvk (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6": {
     "label": "Foundation ...n400d6 (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qqjak3gnnnxkc8rm9e6vu3rwt3hm3shq0y47c6zr": {
     "label": "Foundation ...47c6zr (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2": {
     "label": "Foundation ...zc5xf2 (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qpsg3nfqtcqvfgh0khphnlmq7luymmu2pg756cl8": {
     "label": "Foundation ...756cl8 (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qp29h8ykmxet46eqzw0wennrmmy4al3xzv37m3ca": {
     "label": "Foundation ...37m3ca (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qqhcw8zmugrm945zc4sk5qq6sjkdfrl6wvp7egw3": {
     "label": "Foundation ...p7egw3 (OPF)",
     "color": "#4d7399",
     "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qr8znzva3h28hausy7n3fput0fn80sajeywmwp5y": {
     "label": "ROSE Rolodex (OPF)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation wallet used for test txs prior to unlocks",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qrmufhkkyyf79s5za2r8yga9gnk4t446dcy3a5zm": {
     "label": "Common Pool (OPF)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation (Reserved Wallet)",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qqnv3peudzvekhulf8v3ht29z4cthkhy7gkxmph5": {
     "label": "Fee accumulator (OPF)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation (Reserved Wallet)",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qp65laz8zsa9a305wxeslpnkh9x4dv2h2qhjz0ec": {
     "label": "Governance Deposits (OPF)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation (Reserved Wallet)",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qrd3mnzhhgst26hsp96uf45yhq6zlax0cuzdgcfc": {
     "label": "Sapphire (Vault)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qrnu9yhwzap7rqh6tdcdcpz0zf86hwhycchkhvt8": {
     "label": "Cipher (Vault)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qzvlg0grjxwgjj58tx2xvmv26era6t2csqn22pte": {
     "label": "Emerald (Vault)",
     "color": "#4d7399",
     "notes": "Oasis Protocol Foundation",
+    "image": "",
     "tag": "opf"
   },
   "oasis1qp43f78er608d8akl0qnxenajxtrx8s385fyxvzg": {
     "label": "Unknown with Notes",
     "color": "#4d7399",
     "notes": "This wallet serves as an on-ramp to exchange for many seperate backer's wallets. Speculating it may be Copper.co or similar Institutional custodian. Wallet was created in September 2021 just prior to ecosystem fund being announced.",
+    "image": "",
     "tag": "unknown"
+  },
+  "oasis1qqtmpsavs44vz8868p008uwjulfq03pcjswslutz": {
+    "label": "Kiln (Validator)",
+    "color": "#353652",
+    "notes": "https://kiln.fi",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/e976400f2c6613037aa555dd11394305_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqekv2ymgzmd8j2s2u7g0hhc7e77e654kvwqtjwm": {
+    "label": "BinanceStaking (Validator)",
+    "color": "#353652",
+    "notes": "https://www.binance.com",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp53ud2pcmm73mlf4qywnrr245222mvlz5a2e5ty": {
+    "label": "SerGo (Validator)",
+    "color": "#353652",
+    "notes": "https://sergo.top/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/cd8f93d411033d0d08f463906f245405_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpl883gp995zs9n6a279tqsavnaxxf0rzcdlauwu": {
+    "label": "Princess Stake (Validator)",
+    "color": "#353652",
+    "notes": "https://princess-stake.github.io/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/7abefc0db8113014f7079a4dd4576005_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzf03q57jdgdwp2w7y6a8yww6mak9khuag9qt0kd": {
+    "label": "Spectrum Staking (Validator)",
+    "color": "#353652",
+    "notes": "https://spectrumstaking.net",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/8a620e1f2ea45576f792a06f0da08705_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpwrq93z8s9ytu2hfjtqggc9edgwfadzevs3trvm": {
+    "label": "Munay Network (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/e46b46540baf3a06ac7babf28a06db05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrugz89g5esmhs0ezer0plsfvmcgctge35n32vmr": {
+    "label": "Validatrium.com (Validator)",
+    "color": "#353652",
+    "notes": "https://www.validatrium.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/ff96631d063abf8c89ebeda32d884d05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpaygvzwd5ffh2f5p4qdqylymgqcvl7sp5gxyrl3": {
+    "label": "Appload (Validator)",
+    "color": "#353652",
+    "notes": "https://t.me/dimaro",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/6243304c1ffac8281e1f2abf03fc7405_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpqz8g88kvw49m402k8m2r6nv4p62vsdkv5d0u6r": {
+    "label": "Dobrynya Hukutu4 (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/cfd29b95316ef33355e49e3ae2099205_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqw05utlqvf2ska0fyjf5yr7peg2z4tuxcjmqztp": {
+    "label": "RedHead (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqrv4g5wu543wa7fcae76eucqfn2uc77zgqw8fxk": {
+    "label": "Lusia (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr9zuf3n8g3znm786st3sldfw677pk3a6v85w9ds": {
+    "label": "glebanyy (Validator)",
+    "color": "#353652",
+    "notes": "https://t.me/glebanyy",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qz8vfnkcc48grazt83gstfm6yjwyptalny8cywtp": {
+    "label": "Kumaji (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/f37d5d76fb6ad338ee06f438b4ab7605_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpcz9k0q3nzq4289rzq2hw2pwgep0ygnysa5pjdj": {
+    "label": "Magic Rose (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp9xlxurlcx3k5h3pkays56mp48zfv9nmcf982kn": {
+    "label": "ELYSIUM (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/f3a3448b7b51683b63a684cb7405b805_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzv2rktycpcykhudyvg5l6u75v08lpfcw5nt7aj5": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzk6qlmgnq40cq2n3jfkw3307feqngt4gvksfml6": {
+    "label": "GateOmega (Validator)",
+    "color": "#353652",
+    "notes": "https://gateomega.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/d6c0f46ff553d80c101c974324a1ab05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrw82ag2sypeytse9x9k4uxym53l5lc5jyfs2sxv": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzzytegg6jc7hxu6y8feuzkgmr75ms7hc54mz85p": {
+    "label": "Doorgod (Validator)",
+    "color": "#353652",
+    "notes": "https://doorgod42.github.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/3d3fb3889f26e4b24dcd35165f9bcc05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpntrlgxp5tt36pkdezdjt5d27fzkvp22y46qura": {
+    "label": "Chloris Network (Validator)",
+    "color": "#353652",
+    "notes": "https://www.chlorisnetwork.com/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/683b223740ca14fc0da8bb1b51380505_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp0xuvw2a93w4yp8jwthfz93gxy87u7hes9eu2ev": {
+    "label": "Stardust (Validator)",
+    "color": "#353652",
+    "notes": "https://starduststaking.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/ebedfe937bee6c76d68a12d0df524405_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpavd66xsezz8s4wjw2fyycxw8jm2nlpnuejlg2g": {
+    "label": "Spherical One (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/749a019fada9ce72d7818330647b2705_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpg5vq3jt6djfw5rq9l8kcwkt4s7vmjn4vvxujwv": {
+    "label": "AutoStake 🛡️ Slash Protected (Validator)",
+    "color": "#353652",
+    "notes": "https://autostake.net",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/7b8399e8fb07089eb1a26d5d89d03d05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpv6xr9zf4epy67wycy9llqtspjfaxpzs5u2e0lv": {
+    "label": "w3coins (Validator)",
+    "color": "#353652",
+    "notes": "https://www.w3coins.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/1b01fcc940b47fdbe4d48a0fa192b205_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpxpnxxk4qcgl7n55tx0yuqmrcw5cy2u5vzjq5u4": {
+    "label": "Perfect Stake (Validator)",
+    "color": "#353652",
+    "notes": "https://perfectstake.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/cee688a7dde6d4edf15e1fa2a880ea05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp7626tphkh9784tpf2lhdmskjmrk7p2ds40e9me": {
+    "label": "WeHaveServers.com (Validator)",
+    "color": "#353652",
+    "notes": "https://wehaveservers.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/8da0fcf8249815d831953f275e534b05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp334gzlzrap6k2ch6wc9vxxplw9sg3v9cfvvgsy": {
+    "label": "Alive29 (Validator)",
+    "color": "#353652",
+    "notes": "https://keybase.io/alive29",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/c86f2c6b74071b00802adf552ccac805_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qppctxzn8djkqfvrxugak9v7dp25vddq7sxqhkry": {
+    "label": "Tuzem (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/12e07cc1bea0820286026594a228b105_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqr8y5cez0aczdlnfp9fre82whjsdgqgd5xxtv6p": {
+    "label": "BroMyb (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/297b51044729efde1222031813c06f05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qps9drw07z0gmh5z2pn7zwl3z53ate2yvqf3uzq5": {
+    "label": "cherkes (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/b8b4a8365e10e870a60455ed1da57f05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzt4fvcc6cw9af69tek9p3mfjwn3a5e5vcyrw7ac": {
+    "label": "StakeService (Validator)",
+    "color": "#353652",
+    "notes": "https://stakeservice.com/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/b4d40c29622fb018a807ee16e4e9f205_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qz0pvg26eudajp60835wl3jxhdxqz03q5qt9us34": {
+    "label": "AnkaStake (Validator)",
+    "color": "#353652",
+    "notes": "https://www.ankastake.com/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/0abefae10692c72e637614171b6e7505_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp9q8g56dwuak0nwsmnykyzsfahj6z49xczp6d8c": {
+    "label": "Validator.ONE | 0% Fee to 2026 | High Self-Stake (Validator)",
+    "color": "#353652",
+    "notes": "https://validator.one",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/be512247bd3574fb9fb8318de3e3eb05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqxqhx9t52rsevhhtfspdxp4gsaft6ewyyeqnqy3": {
+    "label": "LDV (Validator)",
+    "color": "#353652",
+    "notes": "https://keybase.io/ludasik",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/ec5c87e2f710581ba3a91fbc59313905_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp4tj3u9qkcgjqrrjvwljrqcyx3g5ygjqgtm37t3": {
+    "label": "Strata One (Validator)",
+    "color": "#353652",
+    "notes": "https://strataone.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/04596292f98bb67304f8cfea15625b05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrjwzudz53vfy2vfqe5tavae370tukt9fulj27l0": {
+    "label": "RoseDrop (Validator)",
+    "color": "#353652",
+    "notes": "https://rosedrop.es",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/b35a59602ceee57d6b2fbc71af727205_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpfcsun7zju6ku7d2mdh54j9nsmxvj76uqk35w57": {
+    "label": "01node (Validator)",
+    "color": "#353652",
+    "notes": "https://01node.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/82c0a77a4fa7eadcc7c19db426535e05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpqz2ut6a6prfcjm64xnpnjhsnqny6jqfyav829v": {
+    "label": "GoStaking (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/796f004b2fa2a5ff17299d361b78b005_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpjk62axdvn2g97felfa9jpxxrptqzm4mgwh540r": {
+    "label": "PoS Node (Validator)",
+    "color": "#353652",
+    "notes": "https://www.posnode.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/919e27a6b7601599af7b4cf67fe9f705_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqlckx8uus05llpl5jdcsck6zceal06zgg3ll75t": {
+    "label": "Orion (Validator)",
+    "color": "#353652",
+    "notes": "https://orionstaking.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/0c6385396acbe5ed0d2c60e12c58c005_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqc35xprrs0x595d9s0hrz0p60aey4cm8ya8at66": {
+    "label": "Terminet (Validator)",
+    "color": "#353652",
+    "notes": "https://www.terminet.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/46e892f65b076481e8a4196ca6066005_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrw8xd7sewarn0qm3jc5km4e0j2l3qdhfqexqqry": {
+    "label": "CryptoSJ.net (Validator)",
+    "color": "#353652",
+    "notes": "https://cryptosj.net",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/e59f98d0d1a7e16594d89602bd8d5b05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp0j5v5mkxk3eg4kxfdsk8tj6p22g4685qk76fw6": {
+    "label": "Esya's node (Validator)",
+    "color": "#353652",
+    "notes": "https://github.com/esya",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/cc48f9fbff29c60ed8dd05f871b5ab05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qr33agzz8r4xxfw9nhrdqcp9ejcv0f72ks05qt39": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzg6dct605z9vm5d265uzskqj6szhkx3zugae2a3": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq58f3mqxt6htvtxcayt4zfshysj36zksvwkmjg9": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq4jqh66ga62pe9td5zsnfge3c9rfp6zucjr03q8": {
+    "label": "Moonstake (Validator)",
+    "color": "#353652",
+    "notes": "https://moonstake.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/e80eaee4f1db47a6296ba935ffc07105_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrtz5ywlwjx9gca7qqxdr5f5s7sh7dkhks44cpvx": {
+    "label": "RoseOnline (Validator)",
+    "color": "#353652",
+    "notes": "https://oasisprotocol.org",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq2stnud2we0gfkvrf2stgg96qxhsh3fyc9mxt82": {
+    "label": "Fast Rose (Validator)",
+    "color": "#353652",
+    "notes": "https://fastvalidator.com",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqqn56k79st0zy4060m0wvmec76vd3pl6czmg90a": {
+    "label": "Oasis@UBC (Validator)",
+    "color": "#353652",
+    "notes": "https://blockchain.ubc.ca/",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpxcfulzydlj6hzc2w5tsaxajdmk47raa5ydg0ac": {
+    "label": "Kraymerica (Validator)",
+    "color": "#353652",
+    "notes": "https://kraymerica.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/de0b1e2026784b948bb35f81d7936f05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qq49hl4c08rtnclqhzzql4v8ymkueq2c0595t9pl": {
+    "label": "ptr (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/ef2c20c2c1e1a6584d91c49303fd8e05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqmmflknfn7askxh72kamz9008mpgvuwdusery5f": {
+    "label": "PinLink (Validator)",
+    "color": "#353652",
+    "notes": "https://pinlink.ai",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq3df975et3rwst0qfc5dq4lmygp8hxjzq9z3hlt": {
+    "label": "Colossus (Validator)",
+    "color": "#353652",
+    "notes": "https://colossus.digital/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/546315ad9a0ab74e33173317db8be505_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp7x33cuvy8ydr0xwvqrdxn26wa04yj5lcl6r3v7": {
+    "label": "NodeXis (Validator)",
+    "color": "#353652",
+    "notes": "https://www.nodexis.xyz/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/85c22912ffa579552f54398e35495b05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqskhrk0lhfkwzavkd3g72ne4j6cl8g7vvhjy8rz": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp6rcncrz8azcfdp56mjd3mfguze3yeja5lmxjan": {
+    "label": "mu Protocol (Validator)",
+    "color": "#353652",
+    "notes": "https://muprotocol.io",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpt6fhpy9yl32nytqf3ddmrc5sfup69s0c8wv52e": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqdk4qkygv5ultgw092ak9rsp5lhyvr8dgglm45m": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzu6fvune28lsa8tllsc3t3nk2s0gcpllv8am6tk": {
+    "label": "SpaceStake (Validator)",
+    "color": "#353652",
+    "notes": "https://docs.spacestake.tech",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/8e649d7686a3a95d8b063477fa8ff705_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qz2rxs50p4kn537tcupjhg7ad3zcm9s7uuyrrd9e": {
+    "label": "Staky.io (Validator)",
+    "color": "#353652",
+    "notes": "https://staky.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/802332fc652f99a333844817aaddc105_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrflth3g7k0ymkut2zrca3ktagw6g882yvqmgzdv": {
+    "label": "Datax Staking (Validator)",
+    "color": "#353652",
+    "notes": "https://datax.io/staking/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/59881d43f954b391d5a8bacad93e1f05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzu358mpd4z5frmrq6vnwq87cqfvdmfxh5ax57cj": {
+    "label": "Shutting down, please redelegate (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp4ajz4vdgx3ze42ulk7m0jkxfstqcl87qymg9nx": {
+    "label": "Hammerfest (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpjwv9r7v7y9tw2j4xskck90mkggv9geuy748fqg": {
+    "label": "AndromedaPool | Zero fee to 2025 (Validator)",
+    "color": "#353652",
+    "notes": "https://andromedapool.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/eb2fa72eb025478beca43f249bf8bb05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqzh32kr72v7x55cjnjp2me0pdn579u6as38kacz": {
+    "label": "Trifasicko (Validator)",
+    "color": "#353652",
+    "notes": "https://www.amrcorp.net/url",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/e6506066983bdcce3ba39cdcef7fa505_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrgmg0t3zxn4lgary6w227dv6c5dl55rfvh6p6k2": {
+    "label": "Hyperblockspro (Validator)",
+    "color": "#353652",
+    "notes": "https://hyperblocks.pro/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/9b9d1d2e5c27d408fcbe83fe4f9b7905_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqmwnzfmr2cga5vt64hdkaafw66ttumwkcsf56kt": {
+    "label": "0% Fee StakeSeeker by BTCS (Validator)",
+    "color": "#353652",
+    "notes": "https://www.stakeseeker.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/739222c33ba83c83b731320c311b0e05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qz68kwx74uqysx3mlnny4f32vj8ykrgdmgrt3g4x": {
+    "label": "KuCoin (Validator)",
+    "color": "#353652",
+    "notes": "https://www.kucoin.com/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/523ec2d04c5a833fa510e62e7937bb05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qr5dfqd9qw4k9829ajt2xa873gwuwjdmusc0smdh": {
+    "label": "LaunchGarden (Validator)",
+    "color": "#353652",
+    "notes": "https://www.launch.garden/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/cde8a7489a856ffe1ae1ee216f616c05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrvmxhcjpjvgel9dqfs6zrnza3hqjpa6ug2arc0d": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp2vdltxqvglrwj6qur8s4dw97485vm6actrkcsm": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrc8s2trrm9zgha8wq636yetx7sxjf7x35pf3vrc": {
+    "label": "StakeHaven (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqfhayfeeecjcfzgp2wwan3xcvfkr50ructphafk": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrwxcth2c6njtyan2vdt7k9ra2xkmadmpv7v9387": {
+    "label": "lux8.net (Validator)",
+    "color": "#353652",
+    "notes": "https://lux8.net",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/fa84442c0af2c354042633e83bac7b05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzrjsupecrjmvyfmg0aqz75sek4x7dn4ggchqx28": {
+    "label": "HuobiPool (Validator)",
+    "color": "#353652",
+    "notes": "https://huobipool.com",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrt07xfajnree25q27dxnwvmxs7drj4g3sknwmh4": {
+    "label": "SeaStake (Validator)",
+    "color": "#353652",
+    "notes": "https://seastake.com",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrh6e9ckmfrxn04upc4wg7atau8lz9hw7gj0jt04": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrka7ckx0wtnyhqypcveqv9zws7238yu35tw0zrk": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrgex7s39uw6h6ff3vqqmgyj776xvwsyty2259pw": {
+    "label": "Le Bois Sacré Iboga ... Shutting Down (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/044f614c4e90a7ae4fef9f935c6dcc05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qq45am6gzaur2rxhk26av9qf7ryhgca6ecg28clu": {
+    "label": "Jr (Validator)",
+    "color": "#353652",
+    "notes": "https://aitivity.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/04cebfb7b13493edfa7cb60e80407705_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzzryyckptmgxxnyvt05twjufhl3ah0qtgcf4n8l": {
+    "label": "NodeWorks (Validator)",
+    "color": "#353652",
+    "notes": "https://node.works",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrljxva97z9ak4a8d2v5fpc42xmahrw535z6589m": {
+    "label": "staca-co (Validator)",
+    "color": "#353652",
+    "notes": "https://www.staca.co",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/a45064b3459b33547a9f778dd13c6f05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpp6s22fa3l86enkye5wlu2jgp83zrgspg4fzlhr": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrhr9cdr0e8vyz2gmacyvgjs5ts5xfzz5s9hr7kv": {
+    "label": "Hack'dSystem (Validator)",
+    "color": "#353652",
+    "notes": "https://hackdsystem.com",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq0lrzantpn5a4gx8ej7ampfw25cy8z78vh4uep7": {
+    "label": "Oasis.N次方 (Validator)",
+    "color": "#353652",
+    "notes": "https://www.novanode.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/c0c4026c67bb97e7619ce07ab794e905_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzfwn3erkpj292chryvz29f94ssmzxvfwvj2euuw": {
+    "label": "Feel Mining (Validator)",
+    "color": "#353652",
+    "notes": "https://feel-mining.com/",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpgl52u29wy4hjla89f46ntkn2qsa6zpdvhv6s6n": {
+    "label": "Bi23 Labs (Validator)",
+    "color": "#353652",
+    "notes": "https://bi23.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/a084e1a96ecc3f24bd57dfec517a9205_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqcnfv69whlsmvgqvl6y4g8cfd0rxus9qynldlgw": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp5l7cfvyses0mcz7fnt7dlcer7h5e3mrc2uks9m": {
+    "label": "kooltek68 (Validator)",
+    "color": "#353652",
+    "notes": "https://dataverse.vn",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr3w66akc8ud9a4zsgyjw2muvcfjgfszn5ycgc0a": {
+    "label": "RMIT Blockchain Innovation Hub (Validator)",
+    "color": "#353652",
+    "notes": "https://rmitblockchain.io",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr2v5gj2kmyczyrcm7feunjds8kn5fdltg9jsn3z": {
+    "label": "MMS (Validator)",
+    "color": "#353652",
+    "notes": "https://mms.team",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/fdcb09f923483e82ceda5b2bd2402905_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qrcc0c2tppgkc4ue55ykaxe2yznr7zlmkg7vw5a0": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq82nmyquetakgt5gee2e4dnpgnav8d66sep40zj": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrct7ry2dcmk4ng2lcskzdv26c09xxmm4ytrlzzd": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr223ththl07d227pwmg9stkqskqdwrj9sm7jkg3": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpz6gtyzec4dwq7vxhvseg9yutavyht36qjsyqm2": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzyue69pt2tfkkdp2nw9sk5dsmzvtzu8zsllx7dg": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrqz3yx3ujewxpuunlhd43xx3dcxwt90rcajfh3p": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpte3ug90s0cvj80lsjthvhwdz697ptvhs0zlyyr": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzu5kewyckcdwjym2n78yvjxmdyye4njgsdjyvaf": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp8sn8t0fk727n2lwr8zzxwu5gyf7jy9xus6p4aq": {
+    "label": "Sunny (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqzvrnpu4kw69wedg5g7mf8jy5tzuhu9vchpyh0j": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqa6tcu2w0x4ucxyhq4wxp55m0f08wwpjca43703": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqgdt8ajchz7gytdh7q2yfk0xmq93mhn7g0l2lje": {
+    "label": "Fast (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrrd9sw5mf7z5yn8haltaqrkemd9qm7ldvzrumqs": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqzc9cet7l8z63h00vws283jwhjewkww9uf4fye5": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qz2tg4hsatlxfaf8yut9gxgv8990ujaz4sldgmzx": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qph0dea56zgkqpe6xngtpm5xdrkqa002csadmpa3": {
+    "label": "Feel-Mining (Validator)",
+    "color": "#353652",
+    "notes": "https://feel-mining.com/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/74bae3a593cc7c291d4319fcee2e8105_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzs587tqyvwr3dxcxteax292h2lk4uga6cnerkhj": {
+    "label": "Pacha Mamita (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/c9c65d6006c4ab884d271c7dd5ac3705_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qq7fn8e5zcl2q0x6t9a77ejgagt77anvhv3xlerw": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqjcmrjz26kxr2excl726ft2eu0j0y3mluk2phuz": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrcaq6fgn9dnmg444asts3qkutur24hvpqp7luwa": {
+    "label": "Columbia (Validator)",
+    "color": "#353652",
+    "notes": "https://oasis.grousset.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/9f6d1d7c091c35638623640716c87605_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqxdawayk4jzpcsa5gc3hryql33thjseus97gjrc": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzzz0awhnuxvqc0dzy0chpy3lyrxma3tjqdy4f5r": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrtvgssu2nxtnxdsgcgkmm2tj4pq9c0fy50ecazz": {
+    "label": "KiKi Finance (Validator)",
+    "color": "#353652",
+    "notes": "https://kiki.finance/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/bf7afa09358c3ade451ad89c2ed73505_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qpjtunejghp668wcs0k3dkp60z49k6rkuywyw0gt": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qryuak975pqx5vsrxtkk3jfdd07wj7nzr5dzffhe": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzxs0mhs34vkkerk49gqpvcyx7efvwwssung4593": {
+    "label": "Konak Solutions (Validator)",
+    "color": "#353652",
+    "notes": "https://t.me/konak_solutions_oasis_rose_stake",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq29xfkqdkqjxtnp8rfsjrzlp97gnw70cyh8acvq": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrmd5y5qatetmgchaxkk04y5dgnpxglzqcvezump": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qz8kksv46jy4pgu6dzsvndqhsa9vaj550y6u9q4f": {
+    "label": "HashBase (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqd77jc48wshc79e8w4m38224ss2xvcs95rw4x04": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qz2kz3zkgf6trclyajtyg4jecw7es7p5tutfqaz0": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzrpvmt0chyn4ar06772xcj6rzs5arnecq0y3jj6": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpwz0xvgz4nclgx7zd5s3x5dc2xnxex3sukxa3vl": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpfmj8rfwmzaxnng6n6h9jrtd43hq0radcmdg05w": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqpxy2vp0u2ym4jltdafgrjxuh9y9fap9utzr2wg": {
+    "label": "Provalidator (Validator)",
+    "color": "#353652",
+    "notes": "https://provalidator.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/92cd665c2158b7380de6ed499d95ba05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qr6fr4effjgztms230033me33ycrnf0a8cv0a7xp": {
+    "label": "Adorid (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/93f63f495b5848cf10e798b1702bdb05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qryprns7e556g7knx256nlhp2mqw9ughjyqmdfjm": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr7c0pta4h9666zmpl52j63sthzfw2hszvp2de3v": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqcf0zn6a9d20j99cq4pue8xx2dkp7d2uv55nz5v": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr2zw0l903skt999tryu2e99v7t4g20hxc5nka9s": {
+    "label": "Atlantis (Validator)",
+    "color": "#353652",
+    "notes": "https://www.grousset.com",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/9f6d1d7c091c35638623640716c87605_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqpxw4qdhuwhqzuftsln2cz5rkevl5ehgv5jy5qa": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qztsz3v57fgeyznckxe0rpah5wezr352ec8s0699": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr69qkx36k7mf7lzgy54pmrs8rsg7nst5gln8zvh": {
+    "label": "StakeFAQ (Validator)",
+    "color": "#353652",
+    "notes": "https://stakefaq.com",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr2n6vk3zexszt5vvfv0mpek4emd8nhc9u0pdhsh": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq6wlr5d26sycqylekpgd4wspgdg5jmjasldzrmc": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr6qp6cz3hnzx3yweyll7rne79ctfalrlcf5qj09": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr3puerc428mxfeg4wd7jjdqag50rjtqlse4p2da": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzw5j0rxw9xdgt97wtrwrwxts0x7w0vk0c2gewtq": {
+    "label": "StakeLab (Validator)",
+    "color": "#353652",
+    "notes": "https://stakelab.fr",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/63585765d299338807f158d6aadd2e05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qp3a3ks7r99y3u7702ler3euxdp33d3h9s5lhp34": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr0acnmfrjkga5e578h7y3v2m2g7h85t8vzl648z": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrtlzkh9akhrcuatl6g9kmjuf70p0365kvg0yp24": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr5qes9qvpuccx62k0q5s5lstl07rav99uwm22jg": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qza428eat7ppvamd33ry7xs7tlqslqnydcrp70s0": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzjp96xfmfauvpe6sz99r06q9tah8utlc5lkqr9w": {
+    "label": "StakeTartare (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/282d132c874a37fd6a6014c0e1a7b405_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzl58e7v7pk50h66s2tv3u9rzf87twp7pcv7hul6": {
+    "label": "blockscape (Validator)",
+    "color": "#353652",
+    "notes": "https://blockscape.network/",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/0df6d91e7e57b42a7e17b2cc62541905_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzkhrgegnfvvv0k393e3uh4m7sushefj3uxzzlpz": {
+    "label": "La Soupe Quantique (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/6a728e9f3da5b3eb6102f37deb5b3f05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qz04lk6qzm9ml3ff4qt3f7qjepdqh4l6dyr4lsmu": {
+    "label": "A (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr8al5vcpqzjspdl8yt27fqc3pydz4alhs0xqp5e": {
+    "label": "ViTAssIM|BrAzZzeRs  (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qztpw0744zmes3mchg0ga24zkr2muwdglgs2pk5e": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrecdyjt5wu4ynkugv9ns8qjl5wl7gzprukywrly": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqvljqym4nd7xa48rtq5nmwswlxt5n83uv24l7zu": {
+    "label": "QuantaStakes (Validator)",
+    "color": "#353652",
+    "notes": "https://quantalabsinc.github.io",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/984022256da20635152ae218d170f205_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzgfrauyppwvfpkjcsxmhjxu5qtp909qtuvslqjc": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzf7u0w4ueuapvppslgufy02hznef0l8lvhp4q9p": {
+    "label": "Cypherpunk Capital (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/46ab03d52a0283e53a97ecbcbb94f005_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qq9dy5xlkrp6y3ckfp8rx8edq77c88ttl5qe3p2u": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrs8xpzhevja678g435afvkvs4h6xm6qzgdz6slf": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqudydgysjs9pd82hg3ng33p6756z7g9j5qtpfdx": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qz5afnujgfsxhct630f8nlqtpgxd5kzlvuvtnfqr": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzk4yehq4f7lskpldq359tm3tp7w2wcurvgrgx76": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpw9clas6p53f44vq9vu7m5kzta2z23gcu8qezq5": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzskrjsl94cg74apwd5890dppu4fafg8rgyuuceu": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqywzjl46m5ju5vfj3h62pz3jaydkg3agu2grpc5": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpq9ezgwhptl6897f96g2m6d92wgxq692vte54jt": {
+    "label": "shutdown (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzpltjryl38jdmd03309z8z87gcl32v53q6xshwq": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpdqexmqzhf86c7n3rar5dsw439yttugpvuvnv28": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qphhnqpgrylyz6ku2lypg8gv0dr54xam9ujj0kdd": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqm6hnxzwm5h04zqh4fm0w2eygx0kuj9rymg48m5": {
+    "label": "HashFabric (Validator)",
+    "color": "#353652",
+    "notes": "https://hashfabric.net",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/951b357eb90132ce4f2e2728ee54b805_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qzfsjhnm56fgnkfvjqsk3lt38ya9mjemzqh3h5ds": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqffexvlhd7d4u8vrqdgzc9qlkdzzz4dcvdf7juk": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qzlh9lv59v880qh7xd2z3nkqdzdxvcj7h5kpq3pg": {
+    "label": "DeviseR (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "https://s3.amazonaws.com/keybase_processed_uploads/6b19b5530bbb695b6441b5dd0baede05_360_360.jpg",
+    "tag": "validator"
+  },
+  "oasis1qqsdf7mk3wqp0ugztzj5duysn4yn097gqvkfugfw": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qr83gwvsy5zhxhcf442uluzf2lsx7ufdqv0qes78": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qpdlqz373hcqvafadd3lxptj42x84sws35s02r4r": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qq5huvjkenm46zzsvgdt6evgjq6h7xp92cdh6826": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qrsdled3q29nfgt5w9zfw9u8ddpwsmepxgnvqhyf": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qp2sah0sskcymat5f0mpntphp8ysrxaklgwl8eh7": {
+    "label": "Khastor (Validator)",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
+  },
+  "oasis1qqxqueckyxhtwn98h2slhq6h8kd94vl5qgetwh48": {
+    "label": "Validator",
+    "color": "#353652",
+    "notes": "",
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qp3fd5rplv5uh6nc9vn85ejeaszewjv2xgvfts07": {
     "label": "Beta Genesis Ledger",
