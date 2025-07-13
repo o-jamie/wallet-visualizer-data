@@ -1480,43 +1480,50 @@
     "label": "ParaState (Validator)",
     "color": "#353652",
     "notes": "Beta Genesis Ledger",
+    "image": "",
     "tag": "validator"
   },
   "oasis1qp3rhyfjagkj65cnn6lt8ej305gh3kamsvzspluq": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Oxnode (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qp4f47plgld98n5g2ltalalnndnzz96euv9n89lz": {
     "label": "Julia-ju (Validator)",
     "color": "#353652",
     "notes": "Beta Genesis Ledger",
+    "image": "",
     "tag": "validator"
   },
   "oasis1qp4rp7adhegfktyg4aq3w6jelqumx6klfv5t7kvv": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "moonli.me (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qp60saapdcrhe5zp3c3zk52r4dcfkr2uyuc5qjxp": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Tessellated Geometry (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qp6ela294e5nkay37n039fw8d50k9kygesxa8mzt": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "londonblockchainlabs (ucl) (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qp6fzgx9zhamsk6c77cwzjeme06xwswffvhk6js2": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Making.Cash Validator (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe": {
     "label": "Foundation ...zkxupe (OPF)",
@@ -1526,16 +1533,17 @@
     "tag": "opf"
   },
   "oasis1qpg763ex50jp0e34lsu789smlzqvcv7025v7m7yx": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "BlockOG Capital (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qpjuke27se2wnmvx6e8uc4l5h44yjp9h7g2clqfq": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "RockX",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qpn83e8hm3gdhvpfv66xj3qsetkj3ulmkugmmxn3": {
     "label": "Chorus One (Validator)",
@@ -1544,28 +1552,28 @@
     "tag": "validator"
   },
   "oasis1qppjm5sxqwps4dpyekdvz530sjmq3e5eusp7hdan": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Ubik Capital (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qps7mh7usg7u4t35ujr0l8dxjs2ly2swhu9v0mr0": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Blockdaemon (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "0base.vc (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qptk3ydjxuq3eenqwljdy45uxdye5tfg4sqar0fz": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qq0xmq7r0z9sdv02t5j9zs7en3n6574gtg8v9fyt": {
     "label": "Mars Staking (Validator)",
@@ -1574,16 +1582,16 @@
     "tag": "validator"
   },
   "oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Aptemuyc🌹 (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qq3fq8hxrlq6pedw0q3f57daea43a6v7q5rwf0ll": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Maria Mirabella❤️ ROSE (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qq3xrq0urs8qcffhvmhfhz4p0mu7ewc8rscnlwxe": {
     "label": "Stakefish (Validator)",
@@ -1593,22 +1601,22 @@
     "tag": "validator"
   },
   "oasis1qq4f2h225gv6g8w8w23fm740aze9lke4qun72n59": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "gunray (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qq7vyz4ewrdh00yujw0mgkf459et306xmvh2h3zg": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Shutting down on May 26 - please redelegate (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "SSSnodes (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qqdd4nmtcmarf4u9gdg24swxhec52du43cxzf302": {
     "label": "Beta Genesis Ledger",
