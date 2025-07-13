@@ -1477,10 +1477,10 @@
     "tag": "validator"
   },
   "oasis1qp3fd5rplv5uh6nc9vn85ejeaszewjv2xgvfts07": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "ParaState (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qp3rhyfjagkj65cnn6lt8ej305gh3kamsvzspluq": {
     "label": "Beta Genesis Ledger",
