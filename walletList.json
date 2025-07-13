@@ -1751,10 +1751,10 @@
     "tag": "genesis"
   },
   "oasis1qrs8zlh0mj37ug0jzlcykz808ylw93xwkvknm7yc": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "bitoven (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qrtq873ddwnnjqyv66ezdc9ql2a07l37d5vae9k0": {
     "label": "Beta Genesis Ledger",
