@@ -1641,64 +1641,74 @@
     "tag": "validator"
   },
   "oasis1qql4alk30frfa6xua42eu7tynkqf9vd5ug95yqpn": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Breathe and Stake (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqlq8jplttrmw982rrhp0svl8054xqevecks5yqr": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Smart Stake (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqm6l2msa0lhp080wmd0xrudzpusqjp4puuusup5": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Frankfurt School Blockchain Center (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqnmppt4j5d2yl584euhn6g2cw9gewdswga9frg4": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Nodeasy (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqx820g2geqzeyeyfnm5hgz72eaj9emajgqmscy0": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "max999 (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqxg9s39jfqwhwnnv3nlpfzvdv9hqw5n2gdvuj3r": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqyynj90zkvyhja33w4ltgej45pr48f45ymmnsrx": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "WolfEdge Capital (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qr0jwz65c29l044a204e3cllvumdg8cmsgt2k3ql": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Staking Fund (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qr5f26k9rnfa2pg6wgsuljyq7lecej3gaqqhyra5": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "HashKey Cloud (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qr87t7j3csez6jknwr4ksjn4u2pwye2ku5xjcjcc": {
     "label": "Beta Genesis Ledger",
