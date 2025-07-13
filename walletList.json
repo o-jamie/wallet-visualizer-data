@@ -1585,10 +1585,11 @@
     "tag": "genesis"
   },
   "oasis1qq3xrq0urs8qcffhvmhfhz4p0mu7ewc8rscnlwxe": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Stakefish (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qq4f2h225gv6g8w8w23fm740aze9lke4qun72n59": {
     "label": "Beta Genesis Ledger",
