@@ -1907,51 +1907,51 @@
     "tag": "genesis"
   },
   "oasis1qzthup6qts0k689z2wy84yvk9ctnht66eyxl7268": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qztpm422n7v98f4s7ja0wt5jey7fy3xpg5ye2vtl": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Second State (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qzufmg23p7jprqmptvz0vyn69c7lk6vfwuz8xapf": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qzugextrcdueshq63w7l9x4xglnusznsgqa95w7e": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Alexander (aka Bambarello) (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qzv7a0gkxwpfelv985fvkl24k7jh3arfwy84zw7q": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "huglester.com (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qzws86jlwurt3e4vrm9tmywgpamhn7l8mglrxl6h": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "londonblockchainlabs (lse) (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qzz8zmehzgcynlueydeqfax9cznzdw3lvgark5h3": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qzzwkrjmyrzey46hyste5xszue3ggy90ag7k3687": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   }
 }
