@@ -1711,22 +1711,25 @@
     "tag": "validator"
   },
   "oasis1qr87t7j3csez6jknwr4ksjn4u2pwye2ku5xjcjcc": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "londonblockchainlabs (imperial) (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qr9wccuk6pqcr5ld8t2uf599e4ch5348hqeq53x4": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Blockscale - Planet-Scale Blockchain Services (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qra3rvq7y055waxmnx8rc0nad3frr8na2s9l8l3f": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Daylight Network (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qram2p9w3yxm4px5nth8n7ugggk5rr6ay5d284at": {
     "label": "Beta Genesis Ledger",
