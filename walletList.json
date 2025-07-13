@@ -1519,10 +1519,11 @@
     "tag": "genesis"
   },
   "oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
-    "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "label": "Foundation ...zkxupe (OPF)",
+    "color": "#4d7399",
+    "notes": "Ear marked as Oasis Protocol Foundation wallet",
+    "image": "",
+    "tag": "opf"
   },
   "oasis1qpg763ex50jp0e34lsu789smlzqvcv7025v7m7yx": {
     "label": "Beta Genesis Ledger",
