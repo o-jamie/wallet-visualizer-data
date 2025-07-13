@@ -1537,10 +1537,10 @@
     "tag": "genesis"
   },
   "oasis1qpn83e8hm3gdhvpfv66xj3qsetkj3ulmkugmmxn3": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Chorus One (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qppjm5sxqwps4dpyekdvz530sjmq3e5eusp7hdan": {
     "label": "Beta Genesis Ledger",
