@@ -1489,10 +1489,10 @@
     "tag": "genesis"
   },
   "oasis1qp4f47plgld98n5g2ltalalnndnzz96euv9n89lz": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Julia-ju (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qp4rp7adhegfktyg4aq3w6jelqumx6klfv5t7kvv": {
     "label": "Beta Genesis Ledger",
