@@ -1567,10 +1567,10 @@
     "tag": "genesis"
   },
   "oasis1qq0xmq7r0z9sdv02t5j9zs7en3n6574gtg8v9fyt": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Mars Staking (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "tag": "validator"
   },
   "oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u": {
     "label": "Beta Genesis Ledger",
