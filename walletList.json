@@ -1616,25 +1616,29 @@
     "label": "SSSnodes (Validator)",
     "color": "#353652",
     "notes": "Beta Genesis Ledger",
+    "image": "",
     "tag": "validator"
   },
   "oasis1qqdd4nmtcmarf4u9gdg24swxhec52du43cxzf302": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Unnamed (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqewwznmvwfvee0dyq9g48acy0wcw890g549pukz": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "Wanderer Staking (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qqf6wmc0ax3mykd028ltgtqr49h3qffcm50gwag3": {
-    "label": "Beta Genesis Ledger",
-    "color": "#b0b8b2",
+    "label": "ou812 (Validator)",
+    "color": "#353652",
     "notes": "Beta Genesis Ledger",
-    "tag": "genesis"
+    "image": "",
+    "tag": "validator"
   },
   "oasis1qql4alk30frfa6xua42eu7tynkqf9vd5ug95yqpn": {
     "label": "Beta Genesis Ledger",
