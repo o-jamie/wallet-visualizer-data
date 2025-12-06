@@ -78,49 +78,182 @@
   },
   "oasis1qzd649gq7lgy4wwv7d45pkavfa5yfmw6us3nzv9m": {
     "label": "Coinbase Cold Wallet",
-    "color": "#ff8566",
+    "color": "#ff3300",
     "notes": "Exchange Cold Store or Custodial Reserves",
     "image": "",
     "tag": "exchange"
   },
   "oasis1qp6u9g9xjeya72g8p8skhhm0ejz0psfkyc8hg8aj": {
-    "label": "Coinbase-controlled",
-    "color": "#ff8566",
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange"
   },
   "oasis1qp7487p50r9eta7lvjlte8y39hx4kc596v8l9gch": {
-    "label": "Coinbase Wallet",
-    "color": "#ff8566",
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange"
   },
   "oasis1qps7l7r5qkda5pdgdsfh4hefa30dmwdg3ctcur4h": {
-    "label": "Coinbase Wallet",
-    "color": "#ff8566",
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange"
   },
   "oasis1qpsngzcd23gv9gm0utq8am66n9egs366xyln2jsl": {
-    "label": "Coinbase Wallet",
-    "color": "#ff8566",
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange"
   },
   "oasis1qqaf0ws0z5urskf7r5v9jg37qc6643mkmvdtx8qy": {
-    "label": "Coinbase Wallet",
-    "color": "#ff8566",
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange"
   },
   "oasis1qqcrsufgq4fkt5nee9rlt8etvary4qt8vs8228qy": {
-    "label": "Coinbase Wallet",
-    "color": "#ff8566",
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qqrgxmdlx39pn9dk2rnh3w5rnml5lv78yym8ruk0": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qqt2730cwdmd45sxr40a4zpga32g92ak6gtzgj5p": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qqztlmh3je4zqw73ayltxet863s4tytnlghv76ch": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qr0rrtjy2me33ggtnya70lc7pde9kdxtsszwrdas": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qr0zrvxkdq8rtycxwrunpk4nljwkaapq5vvc3se7": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qrc32em97zk00tw0tzmpuzvcv944kctxcgqu6k5a": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qrcx6yz5ta2lddp2hxx9y3s776mnrrdknvrq2rjp": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qrf28vsy2mhn450hzks692mlsr9666sdrqfms4j7": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qrf2u4snsywejlmfc7mljevfchr5z76sh5t5n5zg": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qrOrrtjy2me33ggtnya70lc7pde9kdxtsszwrdas": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qz8u2r0pf38gul562n5de4|zud4s5xcl2vs6c5fj": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzcj5af2zrrphnkug9x3wje4rxe97pgfyyce34t6": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzd649gq7lgy4wwv7d45pkavfa5yfmw6us3nzv9m": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzj6hn54av8zrehzv554vktzvhvlk6srkyu2jxth": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzm7ud3d63knpk96s034dmfdr454ux7mv56vkwmx": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qznwrqqm2954kn3vj7d0t4v3gaza6umdfutanape": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzpw7hdk9mtqqtc36qkutgca7gs0s6h85gwtpxru": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzsjlzd4thxtpswm76d44f598mftxap9jq92jsxx": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
+    "notes": "exchange-controlled wallet: cold store or custodian",
+    "image": "",
+    "tag": "exchange"
+  },
+  "oasis1qzz5sk2ypxysjyd4nmtphufp0mf7xerewqvmqneq": {
+    "label": "Coinbase: Custodian",
+    "color": "#ff3300",
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange"
