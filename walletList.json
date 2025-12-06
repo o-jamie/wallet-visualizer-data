@@ -124,12 +124,6 @@
     "notes": "exchange-controlled wallet: cold store or custodian",
     "image": "",
     "tag": "exchange_controlled"
-  },": {
-    "label": "Coinbase Wallet",
-    "color": "#ff8566",
-    "notes": "exchange-controlled wallet: cold store or custodian",
-    "image": "",
-    "tag": "exchange_controlled"
   },
   "oasis1qprdt0y9q34pnupgdp3wgvv88klj0f979u6c0yan": {
     "label": "Kucoin Cold Wallet",
